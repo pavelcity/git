@@ -6,7 +6,7 @@
 
 ---
 
-## #Настроим alias для команд git (Mac / Linux)
+## #Настроим alias для команд git
 
 === "Mac / Linux"
         
